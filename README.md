@@ -1,14 +1,20 @@
-## **Hola! Soy Dilan Solar** 👋
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="/css/bootstrap.min.css" />
-</head>
-Soy estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨‍💻.      
-        
+<div align="center">
 
-<div class="row" style="width: 25rem;">
+## **Hola! Soy Dilan Solar** 👋
+
+Soy estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨‍💻.
+
+</div>
+
+---
+
+<div align="center">
+
+### **Mis Estadísticas de GitHub**
+|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilansolart)](https://github.com/dilansolart/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilansolart&layout=compact)](https://github.com/dilansolart/github-readme-stats)|
+
+</div>
+<!-- <div class="row" style="width: 25rem;">
     <h1></h1>
     <h2 class="card-title">Mis Estadísticas de GitHub</h2>
     <div class="col-sm-6">
@@ -24,11 +30,9 @@ Soy estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨�
     </div>
   </div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dilansolart&layout=compact" class="btn btn-primary">Ver Estadisticas</a>
-</div>
+</div> -->
 
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilansolart&layout=compact)](https://github.com/dilansolart/github-readme-stats) -->
 
 <!--
 **dilansolart/dilansolart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
