@@ -1,19 +1,25 @@
-<div align="center">
-
 ## **Hola! Soy Dilan Solar** 👋
 
-Soy estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨‍💻.
+<div style="font-style: italic; text-align: justify;" markdown="1">
+
+### Soy estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨‍💻.
 
 </div>
 
 ---
 
+
+
 <div align="center">
 
 ### **Mis Estadísticas de GitHub**
-|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilansolart)](https://github.com/dilansolart/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilansolart&layout=compact)](https://github.com/dilansolart/github-readme-stats)|
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilansolart)](https://github.com/dilansolart/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilansolart&layout=compact)](https://github.com/dilansolart/github-readme-stats)
+
+
 
 </div>
+
+
 <!-- <div class="row" style="width: 25rem;">
     <h1></h1>
     <h2 class="card-title">Mis Estadísticas de GitHub</h2>
