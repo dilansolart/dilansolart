@@ -31,7 +31,7 @@ Estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨‍�
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="ros" width="40" height="40"/> </a>
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="ros" height="40"/> </a>
     <a href="https://www.ros.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/2560px-Ros_logo.svg.png" alt="ros" width="40" height="40"/> </a>
 </p>
