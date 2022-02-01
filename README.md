@@ -2,9 +2,26 @@
 
 <div style="font-style: italic; text-align: justify;" markdown="1">
 
-Estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨‍💻.
+Estudiante de Ingeniería Electrónica profundizando en áreas de la robótica, Microelectrónica e IoT, con conocimientos en áreas de las TIC: desarrollo de software y desarrollo de aplicaciones web 👨‍💻.
 
-<p align="left"> <br><img src="https://komarev.com/ghpvc/?username=dilansolart&label=Profile%20views&color=0e75b6&style=plastic&color=000000" alt="dilansolart" /> </p>
+<div align="center">
+<p align="right"><img src="https://komarev.com/ghpvc/?username=dilansolart&label=Profile%20views&color=0e75b6&style=plastic&color=000000" alt="dilansolart" /> </p>
+<p align="center">
+    <a href="https://twitter.com/solartous" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solartous" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/dilan-david-solar-tous-88213b167" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilan-david-solar-tous-88213b167" height="30" width="40" /></a>
+    <a href="https://fb.com/dilandavidst" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilandavidst" height="30" width="40" /></a>
+    <a href="https://instagram.com/didasoto" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="didasoto" height="30" width="40" />
+    </a>
+    <a href="https://dilansolart.github.io/" target="blank">
+        <img align="center" src="https://img.icons8.com/cotton/64/000000/internet-browser.png" alt="website" height="30" width="30" />
+    </a>
+</p>
+
+</div>
 
 </div>
 
@@ -50,22 +67,10 @@ Estudiante de Ingeniería Electrónica 🤖 amante de la programacion 👨‍�
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilansolart&show_icons=true&locale=en&layout=compact" alt="dilansolart" />
 </p>
 
+</div>
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/solartous" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solartous" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/dilan-david-solar-tous-88213b167" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilan-david-solar-tous-88213b167" height="30" width="40" /></a>
-    <a href="https://fb.com/dilandavidst" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilandavidst" height="30" width="40" /></a>
-    <a href="https://instagram.com/didasoto" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="didasoto" height="30" width="40" />
-    </a>
-</p>
 
-</div>
 
 <!--
 **dilansolart/dilansolart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
