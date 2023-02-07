@@ -55,18 +55,3 @@ Estudiante de Ingeniería Electrónica profundizando en áreas de la robótica, 
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" height="40"/> </a>
     
 </p>
-
---- 
-
-<div align="center">
-
-### **Mis Estadísticas de GitHub**
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dilansolart&show_icons=true&locale=en" alt="dilansolart" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilansolart&show_icons=true&locale=en&layout=compact" alt="dilansolart" />
-</p>
-
-</div>
-
----
