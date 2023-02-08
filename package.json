@@ -1,0 +1,38 @@
+{
+  "name": "dilansolart",
+  "version": "1.0.0",
+  "description": "dilansolart Guthub Profile",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilansolart/dilansolart.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "Dilan David Solar Tous <dilandavid94@gmail.com> (https://www.dilansolart.github.com/portafolio)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilansolart/dilansolart/issues"
+  },
+  "homepage": "https://github.com/dilansolart/dilansolart#readme",
+  "dependencies": {
+    "ink": "^3.2.0",
+    "node-fetch": "^2.6.9",
+    "react": "^17.0.2",
+    "rss-parser": "3.12.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
