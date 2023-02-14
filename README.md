@@ -1,8 +1,8 @@
-## **Hola! Soy Dilan Solar** 👋
+## **Hola! Soy Dilan Solar** 👋👨‍💻
 
 <div style="font-style: italic; text-align: justify;" markdown="1">
 
-Estudiante de Ingeniería Electrónica profundizando en áreas de la robótica, Microelectrónica e IoT, con conocimientos en áreas de las TIC: desarrollo de software y desarrollo de aplicaciones web 👨‍💻.
+Soy un joven apasionado por la tecnología. Estudiante de ingeniería electrónica con habilidades en desarrollo de software y desarrollo de apps Web. Mi experiencia laboral incluye proyectos en el desarrollo de apps web, así como también en el diseño y programación de robots. Me considero una persona proactiva, con un fuerte deseo de aprender y mejorar continuamente.  
 
 <div align="center">
 <p align="right"><img src="https://komarev.com/ghpvc/?username=dilansolart&label=Profile%20views&color=0e75b6&style=plastic&color=000000" alt="dilansolart" /> </p>
