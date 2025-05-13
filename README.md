@@ -1,8 +1,7 @@
 ## **Hola! Soy Dilan Solar** 👋👨‍💻
 
 <div style="font-style: italic; text-align: justify;" markdown="1">
-
-Soy un joven apasionado por la tecnología. Estudiante de ingeniería electrónica con habilidades en desarrollo de software y desarrollo de apps Web. Mi experiencia laboral incluye proyectos en el desarrollo de apps web, así como también en el diseño y programación de robots. Me considero una persona proactiva, con un fuerte deseo de aprender y mejorar continuamente.  
+Ingeniero electrónico en formación con experiencia en desarrollo de software y aplicaciones web. Destacado por proyectos innovadores en robótica y programación. Proactivo, analítico y crítico. con un compromiso constante hacia el aprendizaje y la excelencia profesional.
 
 <div align="center">
 <p align="right"><img src="https://komarev.com/ghpvc/?username=dilansolart&label=Profile%20views&color=0e75b6&style=plastic&color=000000" alt="dilansolart" /> </p>
@@ -20,14 +19,10 @@ Soy un joven apasionado por la tecnología. Estudiante de ingeniería electróni
         <img align="center" src="https://img.icons8.com/cotton/64/000000/internet-browser.png" alt="website" height="30" width="30" />
     </a>
 </p>
-
+</div>
 </div>
 
-</div>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -53,5 +48,9 @@ Soy un joven apasionado por la tecnología. Estudiante de ingeniería electróni
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/2560px-Ros_logo.svg.png" alt="ros" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" height="40"/> </a>
-    
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dilansolart&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dilansolart&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilansolart&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
